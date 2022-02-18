@@ -1,0 +1,9 @@
+first..  Download and install nodejs
+then install anycode editor like visual studio
+npm start
+
+
+
+
+
+
